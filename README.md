@@ -1,2 +1,1 @@
-# new-project
-for zuri project
+https://shaksworld.github.io/new-project/
